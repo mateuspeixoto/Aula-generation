@@ -5,7 +5,7 @@ programa
 	{
 		real idadeDias,idadeMeses,idadeAnos,totalDias
 
-		escreva("\nQuantos anos de idade você tem?(insira somente números) \n R: ")
+		escreva("\nQuantos anos de idade você tem?(insira números) \n R: ")
 		leia(idadeAnos)
 		
 		escreva(idadeAnos," anos e quantos meses?(insira somente números) \n R: ")
@@ -30,7 +30,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 305; 
+ * @POSICAO-CURSOR = 135; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
